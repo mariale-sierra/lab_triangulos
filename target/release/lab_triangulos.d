@@ -1,0 +1,1 @@
+/mnt/c/Users/males/Downloads/lab_triangulos/lab_triangulos/target/release/lab_triangulos: /mnt/c/Users/males/Downloads/lab_triangulos/lab_triangulos/src/main.rs /mnt/c/Users/males/Downloads/lab_triangulos/lab_triangulos/src/triangle.rs
